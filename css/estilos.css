@@ -1,0 +1,13 @@
+.logo{
+    width: 15rem;
+    height: 15rem;
+    border-radius: 2rem;
+}
+body{
+    background-color: aquamarine;
+}
+.info{
+    width: 35%;
+    background-color: black;
+    color:gainsboro;
+}
